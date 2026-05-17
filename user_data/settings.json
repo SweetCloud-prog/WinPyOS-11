@@ -1,0 +1,19 @@
+{
+  "brightness": 100,
+  "scale": "100%",
+  "volume": 100,
+  "do_not_disturb": false,
+  "wifi": true,
+  "vpn": false,
+  "airplane": false,
+  "wallpaper_type": "default",
+  "wallpaper_color": "#0c2340",
+  "wallpaper_path": "",
+  "theme_mode": "Light",
+  "taskbar_align": "Left",
+  "accent_color": "#0078d4",
+  "resolution": "1920\u00d71080",
+  "transparency": true,
+  "show_search": true,
+  "notifications": true
+}

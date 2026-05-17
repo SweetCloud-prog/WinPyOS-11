@@ -1,0 +1,90 @@
+{
+  "file:hello.txt": {
+    "x": 1726,
+    "y": 100
+  },
+  "app:file_explorer": {
+    "x": 6,
+    "y": 4
+  },
+  "app:notepad": {
+    "x": 92,
+    "y": 292
+  },
+  "app:calculator": {
+    "x": 6,
+    "y": 292
+  },
+  "file:FAAAAAAAAAA": {
+    "x": 1726,
+    "y": 4
+  },
+  "app:browser": {
+    "x": 6,
+    "y": 100
+  },
+  "file:faaaaaa.txt": {
+    "x": 1812,
+    "y": 100
+  },
+  "app:settings": {
+    "x": 92,
+    "y": 4
+  },
+  "file:hmm.jpg": {
+    "x": 1726,
+    "y": 292
+  },
+  "file:test.py": {
+    "x": 6,
+    "y": 580
+  },
+  "file:test.cpp": {
+    "x": 92,
+    "y": 580
+  },
+  "app:viewer3d": {
+    "x": 6,
+    "y": 196
+  },
+  "app:planetarium": {
+    "x": 6,
+    "y": 388
+  },
+  "app:vscode": {
+    "x": 6,
+    "y": 484
+  },
+  "app:terminal": {
+    "x": 92,
+    "y": 484
+  },
+  "file:Kim Jong Goon.url": {
+    "x": 92,
+    "y": 100
+  },
+  "file:IRIS OUT.mp3": {
+    "x": 1726,
+    "y": 196
+  },
+  "file:Lego Ninjago - the Movie.mp4": {
+    "x": 1812,
+    "y": 196
+  },
+  "app:video": {
+    "x": 436,
+    "y": 100
+  },
+  "app:viewer3d2": {
+    "x": 92,
+    "y": 196
+  },
+  "file:Nigga": {
+    "x": 1812,
+    "y": 4
+  },
+  "file:Lego Ninjago The Movie.mp4": {
+    "x": 1812,
+    "y": 196
+  }
+}

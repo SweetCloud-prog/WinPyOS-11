@@ -1,0 +1,8 @@
+{
+    "id": "notepad",
+    "name": "Notepad",
+    "icon_name": "notepad",
+    "description": "Simple text editor",
+    "version": "1.0",
+    "author": "WinPy11"
+}

@@ -1,0 +1,8 @@
+pinned = [
+            ("This PC","computer","file_explorer"),
+            ("Edge","edge","browser"),
+            ("3D Viewer","3d","viewer3d"), ("Planetarium","stellarium","planetarium"),
+            ("Visual Studio Code", "visual", "vscode"),
+            ("Terminal","powershell","terminal"), ("Notepad","notepad","notepad"),
+            ("Calculator","calculator","calculator"), ("Settings","settings","settings"),
+        ]

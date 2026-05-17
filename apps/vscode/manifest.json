@@ -1,0 +1,6 @@
+{
+    "id": "vscode",
+    "name": "Visual Studio Code",
+    "icon_name": "visual",
+    "description": "Code Editor & Python IDE"
+}

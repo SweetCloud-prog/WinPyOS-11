@@ -1,0 +1,8 @@
+{
+    "id": "terminal",
+    "name": "Terminal",
+    "icon_name": "powershell",
+    "description": "Command line terminal",
+    "version": "1.0",
+    "author": "WinPy11"
+}

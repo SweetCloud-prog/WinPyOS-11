@@ -1,0 +1,8 @@
+{
+    "id": "file_explorer",
+    "name": "File Explorer",
+    "icon": "explo",
+    "description": "Browse and manage your files",
+    "version": "1.0",
+    "author": "WinPy11"
+}
